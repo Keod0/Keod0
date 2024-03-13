@@ -63,3 +63,6 @@
 
 ###
 <h2 align="left">Im wishing to become an full-stack dev! and much more!</h2>
+
+###
+<h2 align="mid">Socials:</h2>
