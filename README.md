@@ -62,9 +62,6 @@
 </div>
 
 ###
-<h2 align="left">Im wishing to become an full-stack dev! and much more!</h2>
-
-###
 <h2 align="left">My Story:</h2>
 <p align="left">I started working on electronics repairs alone and i can fix pretty everything since computers and phones or even videogames</p>
 <p align="left">With time i started investing on my own homelab with the money that i make doing repairs to my friends and i started working with micro soldering</p>
