@@ -63,7 +63,9 @@
 
 ###
 <h2 align="left">Im wishing to become an full-stack dev! and much more!</h2>
+
 ###
+
 <img src="https://raw.githubusercontent.com/Keod0/Keod0/output/snake.svg" alt="Snake animation" />
 
-
+###
