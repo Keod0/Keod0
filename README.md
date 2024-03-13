@@ -8,7 +8,7 @@
 <h2 align="left">About me:</h2>
 <p align="left">✨Im from Sao Joao da Pesqueira and in the moment im foccusing on data analysis </p>
 <p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning data analysis<br>🎯 Goals: Full-Stack Dev<br>🎲 Fun fact: i do repairs in tech as hobby</p>
-<h2 align="left">Im wishing to become an full-stack dev! and more!</h2>
+
 
 ###
 
@@ -62,3 +62,4 @@
 </div>
 
 ###
+<h2 align="left">Im wishing to become an full-stack dev! and much more!</h2>
