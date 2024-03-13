@@ -64,17 +64,17 @@
 ###
 
 <h2 align="center">📖 My Story: 📖</h2>
-<p align="left">I started working on electronics repairs alone and i can fix pretty everything since computers and phones or even videogames</p>
-<p align="left">With time i started investing on my own homelab with the money that i make doing repairs to my friends and i started working with micro soldering</p>
-<p align="left">Started CryptoMining in 2021 when i maked my first CryptoMiner with GPU´S </p>
+<p align="left">I started working on electronics repairs alone and i can fix pretty everything since computers and phones or even videogames.</p>
+<p align="left">With time i started investing on my own homelab with the money that i make doing repairs to my friends and i started working with micro soldering.</p>
+<p align="left">Started CryptoMining in 2021 when i maked my first CryptoMiner with GPU´S. </p>
 <p align="left">Presented my first speech about Crypto in 2022 on an theater.</p>
 <p align="left">Started studying CyberSecurity and currently studying Data Analysis and AI.</p>
-<p align="left">I do speeches about CyberSecurity and technologies, if you want contact me 😊</p>
-<p align="left">✨I can talk and understand English,Spanish and Portuguese✨ </p>
+<p align="left">I do speeches about CyberSecurity and technologies, if you want contact me.😊</p>
+<p align="left">✨I can talk and understand English,Spanish and Portuguese✨.</p>
 <p align="left">📚I worked on tech companies such as:</p>
-<p align="left">✅Visabeira in Portugal</p>
-<p align="left">And with that i take my first trip to the thech world, working on my first tech company</p>
-<p align="left">✅JAB in Spain wich i went on ERASMUS</p>
+<p align="left">✅Visabeira in Portugal.</p>
+<p align="left">And with that i take my first trip to the thech world, working on my first tech company.</p>
+<p align="left">✅JAB in Spain wich i went on ERASMUS.</p>
 <p align="left">And with that i learn how to program energy solar systems, photovoltaic ones.</p>
 
 ###
