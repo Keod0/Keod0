@@ -73,7 +73,7 @@
 <p align="left">Started studying CyberSecurity and currently studying Data Analysis and AI.</p>
 <p align="left">I do speeches about CyberSecurity and technologies, if you want contact me 😊</p>
 <p align="left">✨I can talk and understand English,Spanish and Portuguese✨ </p>
-<p align="left">📚I worked on tech companies such as:📚</p>
+<p align="left">📚I worked on tech companies such as:</p>
 <p align="left">✅Visabeira in Portugal</p>
 <p align="left">And with that i take my first trip to the thech world, working on my first tech company</p>
 <p align="left">✅JAB in Spain wich i went on ERASMUS</p>
