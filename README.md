@@ -1,7 +1,7 @@
 <h1 align="left">Hello, Wat´s up?👋</h1>
 
 
-<p align="left">My name is Rafael and I'm a cybertech amatour and coder (newbie dev). Aprendice coder and data analyst from Portugal😊</p>
+<p align="left">My name is Rafael and I'm a cybertech amateur and coder (newbie dev). Aprendice coder and data analyst from Portugal😊</p>
 
 ###
 
