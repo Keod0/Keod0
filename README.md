@@ -13,6 +13,8 @@
 
 ###
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Keod0&theme=vue&locale=pt_BR" alt="GitHub Streak" /></a>
+
 ###
 
 <h2 align="left">I code with:</h2>
