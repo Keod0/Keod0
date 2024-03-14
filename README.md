@@ -32,6 +32,8 @@
 ###
 <h2 align="left">I work and worked with:</h2
                                           
+###
+                                          
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
