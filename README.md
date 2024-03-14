@@ -13,7 +13,7 @@
 
 ###
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Keod0&theme=vue&locale=pt_BR" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Keod0&theme=vue&locale=pt_BR" alt="GitHub Streak" /></a>
 
 ###
 
