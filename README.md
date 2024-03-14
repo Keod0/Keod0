@@ -67,6 +67,7 @@
 <h2 align="center">📖 My Story: 📖</h2>
 <p align="left">I started working on electronics repairs alone and i can fix pretty everything since computers and phones or even videogames.</p>
 <p align="left">With time i started investing on my own homelab with the money that i make doing repairs to my friends and i started working with micro soldering.</p>
+<p align="left">On this time, i started working with arduino, raspberry,and making servers to play games with friends from old computers.</p>
 <p align="left">Started CryptoMining in 2021 when i maked my first CryptoMiner with GPU´S. </p>
 <p align="left">Presented my first speech about Crypto in 2022 on an theater.</p>
 <p align="left">Started studying CyberSecurity by my own and currently studying Data Analysis and AI at university.</p>
