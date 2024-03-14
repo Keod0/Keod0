@@ -3,7 +3,7 @@
 
 <p align="left">My name is Rafael and I'm a cybertech amateur and coder from Portugal😊.</p>
 <p align="left">Currently studying Data Analysis and in future Data Science and Artificial Intelligence.</p>
-
+<p align="left">(upgrading my profile...)</p>
 ###
 
 <h2 align="left">About me:</h2>
