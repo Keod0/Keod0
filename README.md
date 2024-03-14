@@ -13,7 +13,6 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Keod0&theme=vue&locale=pt_BR" alt="GitHub Streak" /></a>
 
 ###
 
@@ -107,3 +106,4 @@
 <img src="https://raw.githubusercontent.com/Keod0/Keod0/output/snake.svg" alt="Snake animation" />
 
 ###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Keod0&theme=vue&locale=pt_BR" alt="GitHub Streak" /></a>
