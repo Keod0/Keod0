@@ -9,7 +9,7 @@
 
 <h2 align="left">About me:</h2>
 <p align="left">✨Im from Sao Joao da Pesqueira and in the moment im foccusing on data analysis </p>
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning data analysis<br>🎯 Goals: idk lol <br>🎲 Fun fact: i do repairs in tech as hobby</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning data analysis<br>🎯 Goals: always be better <br>🎲 Fun fact: i do repairs in tech as hobby</p>
 
 
 ###
