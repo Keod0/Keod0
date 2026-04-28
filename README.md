@@ -74,14 +74,7 @@
   </a>
 </div>
 
-###
-<h2 align="center">Visitors:</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Keod0/count.svg?"  />
-</div>
-
-###
 
 <h2 align="center">📖 My Story: 📖</h2>
 <p align="left">I started working on electronics repairs alone and i can fix pretty everything since computers and phones or even videogames.</p>
