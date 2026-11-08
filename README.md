@@ -2,7 +2,7 @@
 
 
 <p align="left">😊.</p>
-<p align="left">Currently studying DData Science and Artificial Intelligence bachelor.</p>
+<p align="left">Currently studying Data Science and Artificial Intelligence bachelor.</p>
 <p align="left">(upgrading my profile...)</p>
 
 ###
